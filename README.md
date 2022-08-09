@@ -30,6 +30,12 @@ First-principle Sage Mode. Programming Language Agnostic. Pure Computer Scientis
   </tbody>
 </table>
 
+<a href="https://github.com/Cryptolibertarian-id">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cryptolibertarian-id&theme=light&count_private=true&layout=compact" alt="Cryptolibertarian-id Most used languages" />
+</a>
+<a href="https://github.com/Cryptolibertarian-id">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cryptolibertarian-id&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="Cryptolibertarian-id Github stats"/>
+</a>
 
 
 ### Current Activities :   
